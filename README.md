@@ -9,7 +9,7 @@ Create a `Person` subclass of `NSObject` that contains the following properties:
 
 Your person object should have the following methods:
 
-`-(NSString *) description`: Should return a string in the following format:
+`-(NSString *) description`: Should return a string in th e following format:
 
 ```
 My name is (First Name) (Last Name), I am (Age) years old and I am a (Academic Status) at West Virginia University.
